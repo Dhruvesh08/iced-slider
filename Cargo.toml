@@ -1,0 +1,11 @@
+[package]
+name = "slider"
+version = "0.1.0"
+authors = ["Casper Rogild Storm<casper@rogildstorm.com>"]
+edition = "2021"
+repository = "https://github.com/Dhruvesh08/iced-slider"
+homepage = "https://github.com/Dhruvesh08/iced-slider"
+publish = false
+
+[dependencies]
+iced = { version = "0.10.0"}
